@@ -1,0 +1,17 @@
+{
+  "name": "supertestdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.1.1",
+    "mochawesome": "^3.0.2",
+    "should": "^13.2.1",
+    "supertest": "^3.0.0"
+  }
+}
